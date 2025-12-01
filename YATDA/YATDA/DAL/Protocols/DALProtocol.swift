@@ -1,10 +1,3 @@
-//
-//  DALProtocol.swift
-//  YATDA
-//
-//  Created by dmu mac 35 on 06/11/2025.
-//
-
 import Foundation
 
 protocol DALProtocol {
