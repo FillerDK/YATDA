@@ -1,10 +1,3 @@
-//
-//  UpdateReminderView.swift
-//  YATDA
-//
-//  Created by dmu mac 35 on 28/11/2025.
-//
-
 import SwiftUI
 
 struct UpdateReminderView: View {
